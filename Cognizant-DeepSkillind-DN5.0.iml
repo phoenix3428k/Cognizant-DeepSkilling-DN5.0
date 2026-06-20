@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Data Structures And Algorithms/exercise_1 Inventory Management System" isTestSource="false" packagePrefix="exercise_1" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Data Structures And Algorithms/exercise_2 E-commerce Platform Search Function" isTestSource="false" packagePrefix="exercise_2" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Data Structures And Algorithms/exercise_3 Sorting Customer Orders" isTestSource="false" packagePrefix="exercise_3" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Data Structures And Algorithms/exercise_4 Employee Management System" isTestSource="false" packagePrefix="exercise_4" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Data Structures And Algorithms/exercise_5 Task Management System" isTestSource="false" packagePrefix="exercise_5" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Data Structures And Algorithms/exercise_6 Library Management System" isTestSource="false" packagePrefix="exercise_6" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Data Structures And Algorithms/exercise_7 Financial Forecasting" isTestSource="false" packagePrefix="exercise_7" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
