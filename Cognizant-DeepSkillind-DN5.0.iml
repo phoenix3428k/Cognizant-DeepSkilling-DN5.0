@@ -10,6 +10,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Week 1 Data Structures And Algorithms/exercise_5 Task Management System" isTestSource="false" packagePrefix="exercise_5" />
       <sourceFolder url="file://$MODULE_DIR$/Week 1 Data Structures And Algorithms/exercise_6 Library Management System" isTestSource="false" packagePrefix="exercise_6" />
       <sourceFolder url="file://$MODULE_DIR$/Week 1 Data Structures And Algorithms/exercise_7 Financial Forecasting" isTestSource="false" packagePrefix="exercise_7" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Design Patterns And Principles/exercise_1_SingletonPatternExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Design Patterns And Principles/exercise_2_FactoryDesignPatternExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Design Patterns And Principles/exercise_3_BuilderPatternExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Design Patterns And Principles/exercise_4_AdapterPatternExample" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
