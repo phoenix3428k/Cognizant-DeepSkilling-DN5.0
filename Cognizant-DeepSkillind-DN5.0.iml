@@ -16,6 +16,11 @@
       <sourceFolder url="file://$MODULE_DIR$/Week 1 Design Patterns And Principles/exercise_4_AdapterPatternExample" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week 1 Design Patterns And Principles/exercise_5_DecoratorPatternExample" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week 1 Design Patterns And Principles/exercise_6_ProxyPatternExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Design Patterns And Principles/exercise_10_MVCPatternExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Design Patterns And Principles/exercise_11_DependencyInjectionExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Design Patterns And Principles/exercise_7_ObserverPatternExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Design Patterns And Principles/exercise_8_StrategyPatternExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1 Design Patterns And Principles/exercise_9_CommandPatternExample" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
