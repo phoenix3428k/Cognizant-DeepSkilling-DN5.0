@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Week 1 Design Patterns And Principles/exercise_7_ObserverPatternExample" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week 1 Design Patterns And Principles/exercise_8_StrategyPatternExample" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week 1 Design Patterns And Principles/exercise_9_CommandPatternExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 2 Spring Data JPA with Hibernate/01_spring_data_jpa_handson/01_Spring_Data_JPA_Quick_Example" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
