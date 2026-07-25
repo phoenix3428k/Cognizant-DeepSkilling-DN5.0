@@ -1,7 +1,7 @@
 package com.cognizant.ormlearn.service;
 
 import com.cognizant.ormlearn.model.Skill;
-import com.cognizant.ormlearn.repository.SkillRepository;
+import com.cognizant.ormlearn.repositories.SkillRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

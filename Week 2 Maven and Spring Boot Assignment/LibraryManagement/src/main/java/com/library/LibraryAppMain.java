@@ -15,11 +15,18 @@ public class LibraryAppMain {
         BookService bookService = context.getBean("bookService", BookService.class);
 
         // Create new books (POJOs) and add them to the service
-        Book book1 = new Book(1, "Effective Java", "Joshua Bloch", "978-0134685991", 45.0);
-        Book book2 = new Book(2, "Clean Code", "Robert C. Martin", "978-0132350884", 42.0);
+        Book book1 = new Book(1, "The Pragmatic Programmer", "Andrew Hunt", "978-0201616224", 50.0);
+
+        Book book2 = new Book(2, "Head First Java", "Kathy Sierra", "978-0596009205", 40.0);
+
+        Book book3 = new Book(3, "Introduction to Algorithms", "Thomas H. Cormen", "978-0262046305", 85.0);
+
+        Book book4 = new Book(4, "Design Patterns", "Erich Gamma", "978-0201633610", 60.0);
 
         bookService.addBook(book1);
         bookService.addBook(book2);
+        bookService.addBook(book3);
+        bookService.addBook(book4);
 
         // Retrieve and print all books
         System.out.println("List of books: " + bookService.getAllBooks());
@@ -37,26 +44,3 @@ public class LibraryAppMain {
         context.close();
     }
 }
-
-
-/*
-
-In this setup:
-
-Book instances are created directly in the main application code because they are simple data objects.(POJOs)
-BookService and BookRepository are defined as beans in the Spring configuration file because they are components that need to be managed by Spring for dependency injection and lifecycle management.
-
-Spring Beans vs. Plain Old Java Objects (POJOs)
-
-Spring Beans:
-
-These are objects that are managed by the Spring container.
-Their lifecycle is handled by Spring, and they are typically configured in the Spring configuration file.
-Examples include service classes, repository classes, and other components that require dependency injection.
-
-POJOs:
-
-These are simple data objects that don't need to be managed by the Spring container.
-They are often created and used within the application code as needed.
-Examples include entity classes, model classes, and DTOs (Data Transfer Objects).
-*/

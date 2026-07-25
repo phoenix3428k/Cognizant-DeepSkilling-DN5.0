@@ -1,0 +1,9 @@
+{
+  "courses": [
+    { "id": 1, "name": "Angular", "code": "A01", "credits": 3, "gradeStatus": "passed" },
+    { "id": 2, "name": "Java", "code": "J02", "credits": 4, "gradeStatus": "pending" },
+    { "id": 3, "name": "Spring Boot", "code": "SB03", "credits": 4, "gradeStatus": "passed" },
+    { "id": 4, "name": "MySQL", "code": "M04", "credits": 3, "gradeStatus": "passed" },
+    { "id": 5, "name": "Docker", "code": "D05", "credits": 2, "gradeStatus": "failed" }
+  ]
+}

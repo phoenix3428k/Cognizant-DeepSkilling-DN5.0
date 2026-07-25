@@ -1,0 +1,16 @@
+<div class="student-profile">
+  <h2>Student Profile</h2>
+
+  <h3>Enrolled Courses</h3>
+
+  <ul *ngIf="enrolledCourses.length > 0; else noEnrolled">
+    <li *ngFor="let course of enrolledCourses">
+      {{ course.name }} ({{ course.code }}) — {{ course.credits }} Credits
+    </li>
+  </ul>
+
+  <ng-template #noEnrolled>
+    <p>No Courses Enrolled Yet </p>
+    <p>Go To <a href="/courses">Courses</a> To Enroll</p>
+  </ng-template>
+</div>

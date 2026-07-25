@@ -1,0 +1,31 @@
+.course-list {
+  padding: 2rem;
+}
+
+.search-bar {
+  margin-bottom: 1.5rem;
+}
+
+.search-bar input {
+  padding: 0.5rem;
+  width: 100%;
+  max-width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+}
+
+.course-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.error-msg {
+  color: red;
+  font-weight: 500;
+}
+
+p {
+  text-align: center;
+}

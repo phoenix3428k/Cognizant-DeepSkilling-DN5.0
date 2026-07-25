@@ -1,0 +1,16 @@
+.course-detail {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.course-detail h2 {
+  margin-top: 0;
+}
+
+.not-found {
+  text-align: center;
+  padding: 2rem;
+}

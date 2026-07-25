@@ -1,0 +1,21 @@
+.stat-card {
+  min-width: 200px;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  margin-top: 2rem;
+  display: inline-block;
+}
+
+.stat-label {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.17em;
+  font-weight: bold;
+}
+
+.singleton-note {
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: 0.5rem;
+}

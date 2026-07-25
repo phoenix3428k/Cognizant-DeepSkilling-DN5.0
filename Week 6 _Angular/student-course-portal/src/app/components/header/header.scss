@@ -1,0 +1,28 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border-bottom: 1px solid tomato;
+}
+
+.portal-name {
+  font-size: 1.15rem;
+}
+
+.nav-list {
+  display: flex;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.nav-link {
+  color: blue;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,15 @@
+- angular.json – this file is used for telling angular how to build and run the project.
+
+- tsconfig.json – this file is used for telling typescript how to check and compile the code.
+
+- tsconfig.app.json – this file is used for applying typescript settings only to the angular app.
+
+- package.json – this file is used for listing the libraries (packages) the project needs and the commands to run the project.
+
+- src/main.ts – this file is used for starting the angular app by loading the main component.
+
+- src/app/app.config.ts – this file is used for adding app-wide settings, such as routing and services.
+
+- src/app/app.component.ts – this file is used for creating the main (root) component that is shown first when the app starts.
+
+- src/index.html – this file contains the <app-root> tag where the angular app actually loads.

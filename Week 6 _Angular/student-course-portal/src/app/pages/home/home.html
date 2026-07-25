@@ -1,0 +1,29 @@
+<div class="home-page">
+  <h1 class="welcome-heading">
+    Welcome To The {{ portalName }}
+  </h1>
+  <p class="description">
+    Manage And Track Your Assigned Courses
+  </p>
+
+  <div class="stats-row">
+    <div class="stat-card">
+      <h3 class="stat-label">Courses Available</h3>
+      <p class="stats-value">
+        {{ availableCoursesCount }}
+      </p>
+    </div>
+    <div class="stat-card">
+      <h3 class="stat-label">Enrolled</h3>
+      <p class="stats-value">{{ enrolledCount$ | async }}</p>
+    </div>
+    <div class="stat-card">
+      <h3 class="stat-label">GPA</h3>
+      <p class="stats-value">8.57</p>
+    </div>
+  </div>
+
+  <app-course-summary-widget></app-course-summary-widget>
+
+  <app-notification></app-notification>
+</div>

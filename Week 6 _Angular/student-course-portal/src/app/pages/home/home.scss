@@ -1,0 +1,23 @@
+.home-page {
+  padding: 1rem;
+  text-align: center;
+
+  .stats-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+
+  .stat-card {
+    min-width: 200px;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+
+    h3 {
+      margin-top: 0;
+    }
+  }
+}
