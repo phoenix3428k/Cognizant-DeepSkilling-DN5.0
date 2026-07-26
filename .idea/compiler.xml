@@ -12,20 +12,23 @@
         <module name="LibraryManagementSpringBoot" />
         <module name="spring-learn (4)" />
         <module name="spring-learn (3)" />
-        <module name="loan" />
         <module name="spring-learn (1)" />
         <module name="orm-learn" />
-        <module name="loan (1)" />
-        <module name="account (1)" />
         <module name="spring-learn" />
-        <module name="eureka-server" />
         <module name="orm-learn (6)" />
         <module name="springlearn" />
-        <module name="greet-service" />
         <module name="LibraryManagement" />
-        <module name="api-gateway" />
-        <module name="account" />
         <module name="spring-learn (6)" />
+      </profile>
+      <profile name="Annotation profile for orm-learn (10)" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.38/lombok-1.18.38.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.38/lombok-1.18.38.jar" />
+        </processorPath>
+        <module name="orm-learn (10)" />
       </profile>
       <profile name="Annotation profile for spring-learn" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -50,12 +53,20 @@
         <module name="orm-learn (9)" />
         <module name="orm-learn (8)" />
         <module name="orm-learn (7)" />
-        <module name="orm-learn (10)" />
         <module name="orm-learn (11)" />
         <module name="OrmLearn" />
         <module name="spring-learn (7)" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="account" target="21" />
+      <module name="account (1)" target="21" />
+      <module name="api-gateway" target="21" />
+      <module name="eureka-server" target="21" />
+      <module name="greet-service" target="21" />
+      <module name="loan" target="21" />
+      <module name="loan (1)" target="21" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

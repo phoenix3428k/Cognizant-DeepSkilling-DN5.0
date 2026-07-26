@@ -16,30 +16,3 @@ public class StrategyPatternTest {
     }
 }
 
-/*
-In this example, the PaymentContext (context) initially uses a CreditCardPayment strategy and later switches to a PayPalPayment strategy.
-The client code does not need to know the details of these strategies; it simply calls executePayment(),and the correct payment method is used based on the current strategy.
-This flexibility and ease of interchangeability are key benefits of the Strategy Pattern.
-
-Why Use the Strategy Pattern?
-Encapsulation of Algorithms:
-
-The Strategy Pattern encapsulates different algorithms or behaviors (in this case, payment methods) and makes them interchangeable.
-
-Open/Closed Principle:
-
-The pattern adheres to the Open/Closed Principle by allowing new payment strategies to be added without modifying existing code.
-
-Single Responsibility Principle:
-
-Each strategy class has a single responsibility, making the system easier to understand, maintain, and extend.
-
-Dynamic Behavior:
-
-The pattern allows the behavior of the context (payment process) to change dynamically at runtime, depending on which strategy is set.
-
-Reusability:
-
-Different strategies can be reused across different contexts without code duplication.
-
-*/
