@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SOLID Principles"/>
+	<classpathentry kind="src" path="Sorting Algorithms"/>
+	<classpathentry kind="src" path="Week 1 Design Patterns And Principles"/>
+	<classpathentry kind="src" path="Week 2 Maven and Spring Boot Assignment/LibraryManagement/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Maven and Spring Boot Assignment/LibraryManagement/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Maven and Spring Boot Assignment/LibraryManagementSpringBoot/LibraryManagementSpringBoot/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Maven and Spring Boot Assignment/LibraryManagementSpringBoot/LibraryManagementSpringBoot/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/01_spring_data_jpa_handson/01_Spring_Data_JPA_Quick_Example/Code/orm-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/01_spring_data_jpa_handson/01_Spring_Data_JPA_Quick_Example/Code/orm-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/01_spring_data_jpa_handson/05_Implement_services_for_managing_Country/Code/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/01_spring_data_jpa_handson/05_Implement_services_for_managing_Country/Code/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/01_spring_data_jpa_handson/06_Find_a_country_based_on_country_code/Code/OrmLearn/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/01_spring_data_jpa_handson/06_Find_a_country_based_on_country_code/Code/OrmLearn/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/01_spring_data_jpa_handson/07_Add_a_new_country/Code/OrmLearn/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/01_spring_data_jpa_handson/07_Add_a_new_country/Code/OrmLearn/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/01_spring_data_jpa_handson/08_Update_a_country_based_on_code/Code/OrmLearn/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/01_spring_data_jpa_handson/08_Update_a_country_based_on_code/Code/OrmLearn/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/01_spring_data_jpa_handson/09_Delete_a_country_based_on_code/Code/orm-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/01_spring_data_jpa_handson/09_Delete_a_country_based_on_code/Code/orm-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/02_spring_data_jpa_handson/01_Write_queries_on_country_table_using_Query_Methods/Code/OrmLearn/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/02_spring_data_jpa_handson/01_Write_queries_on_country_table_using_Query_Methods/Code/OrmLearn/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/02_spring_data_jpa_handson/02_Write_queries_on_stock_table_using_Query_Methods/Code/OrmLearn/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/02_spring_data_jpa_handson/02_Write_queries_on_stock_table_using_Query_Methods/Code/OrmLearn/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/02_spring_data_jpa_handson/03_Create_payroll_tables_and_bean_mapping/Code/orm-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/02_spring_data_jpa_handson/03_Create_payroll_tables_and_bean_mapping/Code/orm-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/02_spring_data_jpa_handson/04_Implement_many_to_one_relationship_between_Employee_and_Department/Code/orm-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/02_spring_data_jpa_handson/04_Implement_many_to_one_relationship_between_Employee_and_Department/Code/orm-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/02_spring_data_jpa_handson/05_Implement_one_to_many_relationship_between_Employee_and_Department/Code/orm-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/02_spring_data_jpa_handson/06_Implement_many_to_many_relationship_between_Employee_and_Skill/Code/orm-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/02_spring_data_jpa_handson/06_Implement_many_to_many_relationship_between_Employee_and_Skill/Code/orm-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/03_spring_data_jpa_handson/02_Get_all_permanent_employees_using_HQL/Code/orm-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/03_spring_data_jpa_handson/02_Get_all_permanent_employees_using_HQL/Code/orm-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/03_spring_data_jpa_handson/03_Fetch_quiz_attempt_details_using_HQL/Code/orm-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/03_spring_data_jpa_handson/03_Fetch_quiz_attempt_details_using_HQL/Code/orm-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/03_spring_data_jpa_handson/04_Get_average_salary_using_HQL/Code/orm-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/03_spring_data_jpa_handson/04_Get_average_salary_using_HQL/Code/orm-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/03_spring_data_jpa_handson/05_Get_all_employees_using_Native_Query/Code/orm-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 2 Spring Data JPA with Hibernate/03_spring_data_jpa_handson/05_Get_all_employees_using_Native_Query/Code/orm-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/01_spring_rest_handson/01_Create_a_Spring_Web_Project_using_Maven/Code/springlearn/src/main/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/01_spring_rest_handson/01_Create_a_Spring_Web_Project_using_Maven/Code/springlearn/src/test/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/02_spring_rest_handson/02_Hello_World_RESTful_Web_Service/Code/spring-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/02_spring_rest_handson/02_Hello_World_RESTful_Web_Service/Code/spring-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/02_spring_rest_handson/03_REST-Country_Web_Service/Code/spring-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/02_spring_rest_handson/03_REST-Country_Web_Service/Code/spring-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/02_spring_rest_handson/05_REST-Get_country_based_on_country_code/Code/spring-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/02_spring_rest_handson/05_REST-Get_country_based_on_country_code/Code/spring-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/03_spring_data_jpa_handson/02_Get_all_permanent_employees_using_HQL/Code/orm-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/03_spring_data_jpa_handson/02_Get_all_permanent_employees_using_HQL/Code/orm-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/03_spring_data_jpa_handson/03_Fetch_quiz_attempt_details_using_HQL/Code/orm-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/03_spring_data_jpa_handson/03_Fetch_quiz_attempt_details_using_HQL/Code/orm-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/03_spring_data_jpa_handson/04_Get_average_salary_using_HQL/Code/orm-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/03_spring_data_jpa_handson/04_Get_average_salary_using_HQL/Code/orm-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/03_spring_data_jpa_handson/05_Get_all_employees_using_Native_Query/Code/orm-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/03_spring_data_jpa_handson/05_Get_all_employees_using_Native_Query/Code/orm-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/05_JWT_handson/04_Create_authentication_service_that_returns_JWT/Code/spring-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 3 Spring Rest With Spring Boot/05_JWT_handson/04_Create_authentication_service_that_returns_JWT/Code/spring-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 4_Spring_REST_using_Spring_Boot 3/01_spring_rest_handson/01_Create_a_Spring_Web_Project_using_Maven/Code/springlearn/src/main/java"/>
+	<classpathentry kind="src" path="Week 4_Spring_REST_using_Spring_Boot 3/01_spring_rest_handson/01_Create_a_Spring_Web_Project_using_Maven/Code/springlearn/src/test/java"/>
+	<classpathentry kind="src" path="Week 4_Spring_REST_using_Spring_Boot 3/01_spring_rest_handson/02_Spring_Core-Load_SimpleDateFormat_from_Spring_Configuration_XML/Code/spring-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 4_Spring_REST_using_Spring_Boot 3/01_spring_rest_handson/02_Spring_Core-Load_SimpleDateFormat_from_Spring_Configuration_XML/Code/spring-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 4_Spring_REST_using_Spring_Boot 3/02_spring_rest_handson/02_Hello_World_RESTful_Web_Service/Code/spring-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 4_Spring_REST_using_Spring_Boot 3/02_spring_rest_handson/02_Hello_World_RESTful_Web_Service/Code/spring-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 4_Spring_REST_using_Spring_Boot 3/02_spring_rest_handson/03_REST-Country_Web_Service/Code/spring-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 4_Spring_REST_using_Spring_Boot 3/02_spring_rest_handson/03_REST-Country_Web_Service/Code/spring-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 4_Spring_REST_using_Spring_Boot 3/02_spring_rest_handson/05_REST-Get_country_based_on_country_code/Code/spring-learn/src/main/java"/>
+	<classpathentry kind="src" path="Week 4_Spring_REST_using_Spring_Boot 3/02_spring_rest_handson/05_REST-Get_country_based_on_country_code/Code/spring-learn/src/test/java"/>
+	<classpathentry kind="src" path="Week 5_Microservices_with_Spring_Boot_3_and_Spring_Cloud/02_Microservices_with_API_gateway/02_Create Eureka Discovery Server and register/Code/account/src/main/java"/>
+	<classpathentry kind="src" path="Week 5_Microservices_with_Spring_Boot_3_and_Spring_Cloud/02_Microservices_with_API_gateway/02_Create Eureka Discovery Server and register/Code/account/src/test/java"/>
+	<classpathentry kind="src" path="Week 5_Microservices_with_Spring_Boot_3_and_Spring_Cloud/02_Microservices_with_API_gateway/02_Create Eureka Discovery Server and register/Code/loan/src/main/java"/>
+	<classpathentry kind="src" path="Week 5_Microservices_with_Spring_Boot_3_and_Spring_Cloud/02_Microservices_with_API_gateway/02_Create Eureka Discovery Server and register/Code/loan/src/test/java"/>
+	<classpathentry kind="output" path="Week 2 Maven and Spring Boot Assignment/LibraryManagement/target/classes"/>
+</classpath>
